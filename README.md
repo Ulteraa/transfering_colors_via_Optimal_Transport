@@ -1,6 +1,7 @@
-# transfering_colors_via_Optimal_Transport![source](https://user-
+# transfering_colors_via_Optimal_Transport![source]
 Here is the source color and we want to transfer on target image.
-images.githubusercontent.com/29463052/212468420-9f15679a-0209-4700-a594-58f2a1cca655.jpg)
+
+(https://user-images.githubusercontent.com/29463052/212468420-9f15679a-0209-4700-a594-58f2a1cca655.jpg)
 
 ![Uploading source.jpg…]()
 
