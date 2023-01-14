@@ -1,13 +1,20 @@
-# transfering_colors_via_Optimal_Transport![source]
+# transfering_colors_via_Optimal_Transport
 Here is the source color and we want to transfer on target image.
 
-(https://user-images.githubusercontent.com/29463052/212468420-9f15679a-0209-4700-a594-58f2a1cca655.jpg)
+![source](https://user-images.githubusercontent.com/29463052/212468506-3563e882-5484-49e2-8e90-23938f1302f4.jpg)
 
-![Uploading source.jpg…]()
+
 
 target_1:
 
-![transfer](https://user-images.githubusercontent.com/29463052/212468457-33f4d17a-7d58-44e6-8f39-80d40228195a.jpg)
+
+
+![transfer](https://user-images.githubusercontent.com/29463052/212468512-4869e228-ecab-4cbe-b63f-87c17178cbfa.jpg)
+
+
+
 
 target_2
-![transfer0](https://user-images.githubusercontent.com/29463052/212468466-8308b7e5-d236-469d-9302-479948bd5884.jpg)
+
+
+![transfer0](https://user-images.githubusercontent.com/29463052/212468518-e83fb2f1-bc60-47fd-b52e-b16bfb3a5a05.jpg)
